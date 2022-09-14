@@ -13,14 +13,14 @@ Big data comes in many forms. For example, Facebook keeps a log of every click t
 
 ## The Five V’s of Big Data
 
-|-----------|-------------------|
-| Value	| Big data is practically useless until its value is discovered. Many organizations collect vast amounts of data, and much of it stays in databases until the organization can figure out how to use it effectively to its advantage. New technologies have made it inexpensive to store large amounts of data, and this is now common practice industry-wide.
-| Variety	| Data must be accepted in many forms. Variety means large amounts of data can arrive in structured or semi-structured formats. Video feed is a semi-structured type of data that must be processed and broken down so a machine can make sense of the images. This adds yet another layer of complexity.
-| Velocity	| With smart devices becoming more powerful, the rate at which data is received increases dramatically. This means large amounts of data are loaded into a device's memory — typically within milliseconds — and are expected to be processed nearly instantly. For example, when a car is running on autopilot, it must load and process gigabytes of sensor data within fractions of a second, or the car may hit an object and put safety at risk (Ghorui 2019).
-| Veracity	| Data must be accurate and truthful. When collecting big data, care must be taken to ensure that it is representative of all aspects of the business. This is important because inaccurate data can produce biased results when implementing business solutions.
+
+| Value	| Big data is practically useless until its value is discovered. Many organizations collect vast amounts of data, and much of it stays in databases until the organization can figure out how to use it effectively to its advantage. New technologies have made it inexpensive to store large amounts of data, and this is now common practice industry-wide. |
+| Variety	| Data must be accepted in many forms. Variety means large amounts of data can arrive in structured or semi-structured formats. Video feed is a semi-structured type of data that must be processed and broken down so a machine can make sense of the images. This adds yet another layer of complexity. |
+| Velocity	| With smart devices becoming more powerful, the rate at which data is received increases dramatically. This means large amounts of data are loaded into a device's memory — typically within milliseconds — and are expected to be processed nearly instantly. For example, when a car is running on autopilot, it must load and process gigabytes of sensor data within fractions of a second, or the car may hit an object and put safety at risk. |
+| Veracity	| Data must be accurate and truthful. When collecting big data, care must be taken to ensure that it is representative of all aspects of the business. This is important because inaccurate data can produce biased results when implementing business solutions. |
 | Volume	| Big data arrives in massive volumes. This can mean terabytes of unstructured data, such as clickstreams from apps or websites, sensor data from vehicles, video streams from security cameras, and much more (Oracle 2021).
-Big Data Use Cases
-|-----------|-------------------|
+Big Data Use Cases |
+
 
 There are a number of ways that big data can be used in different industries. Some major ways that big data can shape customer experiences and business analytics include the following scenarios:
 
