@@ -13,7 +13,8 @@ Big data comes in many forms. For example, Facebook keeps a log of every click t
 
 ## The Five V’s of Big Data
 
-
+|         |        |
+|---------|--------|
 | Value	| Big data is practically useless until its value is discovered. Many organizations collect vast amounts of data, and much of it stays in databases until the organization can figure out how to use it effectively to its advantage. New technologies have made it inexpensive to store large amounts of data, and this is now common practice industry-wide. |
 | Variety	| Data must be accepted in many forms. Variety means large amounts of data can arrive in structured or semi-structured formats. Video feed is a semi-structured type of data that must be processed and broken down so a machine can make sense of the images. This adds yet another layer of complexity. |
 | Velocity	| With smart devices becoming more powerful, the rate at which data is received increases dramatically. This means large amounts of data are loaded into a device's memory — typically within milliseconds — and are expected to be processed nearly instantly. For example, when a car is running on autopilot, it must load and process gigabytes of sensor data within fractions of a second, or the car may hit an object and put safety at risk. |
